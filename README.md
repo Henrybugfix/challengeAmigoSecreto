@@ -17,3 +17,7 @@ Permite agregar nombres a una lista.
 Valida que el campo de entrada no esté vacío.
 Muestra visualmente la lista de nombres ingresados.
 Realiza un sorteo aleatorio para seleccionar un nombre.
+
+# A implementar
+reinicio del juego cuando todos los nombres han sido sorteados.
+Impedir añadir más nombres una vez ha iniciado el sorteo o ya no hayan más elementos qué sortear.
